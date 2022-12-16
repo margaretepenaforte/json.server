@@ -1,0 +1,11 @@
+{
+"alunos": [
+    {
+        "id": 1,
+        "nome": "Margarete Penaforte",
+        "serie": "3º ano",
+        "nota": 9.3,
+        "aprovado": true
+    }
+]
+}
